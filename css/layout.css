@@ -84,7 +84,7 @@ body {
 
 .anonymous_pro {
   color: #fff;
-  font-family: Anonymous Pro;
+  font-family: "AnonymousPro-Bold";
   font-size: 90px;
   font-style: normal;
   font-weight: 700;
@@ -127,7 +127,7 @@ body {
 .rabbit {
   color: #fff;
   text-align: center;
-  font-family: Anonymous Pro;
+  font-family: "AnonymousPro-Regular";
   font-size: 40px;
   font-style: normal;
   font-weight: 400;
@@ -248,7 +248,7 @@ body {
 .hello {
   float: left;
   color: #fff;
-  font-family: Anonymous Pro;
+  font-family: "AnonymousPro-Bold";
   font-size: 80px;
   font-style: normal;
   font-weight: 700;
@@ -287,7 +287,7 @@ body {
   float: left; /* Позволяет поставить два div в одну строчку */
   color: #fff;
   text-align: center;
-  font-family: Anonymous Pro;
+  font-family: "AnonymousPro-Bold" o;
   font-size: 80px;
   font-style: normal;
   font-weight: 700;
@@ -299,7 +299,7 @@ body {
 .author_text_2 {
   width: 621px;
   color: #fff;
-  font-family: Anonymous Pro;
+  font-family: "AnonymousPro-Regular";
   font-size: 40px;
   font-style: normal;
   font-weight: 400;
@@ -360,7 +360,7 @@ body {
 
 h1 {
   color: #fff;
-  font-family: Anonymous Pro;
+  font-family: "AnonymousPro-Bold";
   font-size: 80px;
   font-style: normal;
   font-weight: 700;
@@ -371,7 +371,7 @@ h1 {
 
 h2 {
   color: #fff;
-  font-family: Anonymous Pro;
+  font-family: "AnonymousPro-Regular";
   font-size: 40px;
   font-style: normal;
   font-weight: 400;
@@ -390,7 +390,7 @@ h2 {
 
 .Anonymous_Pro {
   color: #fff;
-  font-family: Anonymous Pro;
+  font-family: "AnonymousPro-Bold";
   font-size: 140px;
   font-style: normal;
   font-weight: 700;
@@ -444,7 +444,7 @@ h2 {
 }
 
 .Aa_1 {
-  font-family: Anonymous Pro;
+  font-family: "AnonymousPro-Regular";
   color: #ffffff;
   font-size: 140px;
   font-weight: 400;
@@ -455,7 +455,7 @@ h2 {
 }
 
 .regular {
-  font-family: Anonymous Pro;
+  font-family: "AnonymousPro-Regular";
   color: #ffffff;
   font-size: 48px;
   font-weight: 400;
@@ -466,7 +466,7 @@ h2 {
 }
 
 .Aa_2 {
-  font-family: Anonymous Pro;
+  font-family: "AnonymousPro-Bold";
   color: #ffffff;
   font-size: 140px;
   font-weight: 700;
@@ -478,7 +478,7 @@ h2 {
 }
 
 .bold {
-  font-family: Anonymous Pro;
+  font-family: "AnonymousPro-Bold";
   color: #ffffff;
   font-size: 48px;
   font-weight: 700;
@@ -489,9 +489,8 @@ h2 {
 }
 
 .Aa_3 {
-  font-family: Anonymous Pro;
+  font-family: "AnonymousPro-Italic";
   color: #ffffff;
-  font-family: Anonymous Pro;
   font-size: 140px;
   font-style: italic;
   font-weight: 400;
@@ -503,7 +502,7 @@ h2 {
 }
 
 .italic {
-  font-family: Anonymous Pro;
+  font-family: "AnonymousPro-Italic";
   color: #ffffff;
   font-size: 48px;
   font-style: italic;
@@ -516,7 +515,7 @@ h2 {
 
 .Aa_4 {
   color: #ffffff;
-  font-family: Anonymous Pro;
+  font-family: "AnonymousPro-BoldItalic";
   font-size: 140px;
   font-style: italic;
   font-weight: 700;
@@ -527,7 +526,7 @@ h2 {
 }
 
 .bold_italic {
-  font-family: Anonymous Pro;
+  font-family: "AnonymousPro-BoldItalic";
   color: #ffffff;
   font-size: 48px;
   font-style: italic;
@@ -581,7 +580,7 @@ h2 {
 
 .languages_text {
   color: #fff;
-  font-family: Anonymous Pro;
+  font-family: "AnonymousPro-Regular";
   font-size: 40px;
   font-style: normal;
   font-weight: 400;
@@ -691,7 +690,7 @@ h2 {
 
 .keyword_upper {
   color: #fff;
-  font-family: Anonymous Pro;
+  font-family: "AnonymousPro-Regular";
   font-size: 40px;
   font-style: normal;
   font-weight: 400;
@@ -704,7 +703,7 @@ h2 {
 
 .keyword_text {
   color: #fff;
-  font-family: Anonymous Pro;
+  font-family: "AnonymousPro-Regular";
   font-size: 40px;
   font-style: normal;
   font-weight: 400;
@@ -718,7 +717,7 @@ h2 {
 
 .keyword_text2 {
   color: #fff;
-  font-family: Anonymous Pro;
+  font-family: "AnonymousPro-Regular";
   font-size: 40px;
   font-style: normal;
   font-weight: 400;
@@ -732,7 +731,7 @@ h2 {
 
 .keyword_text {
   color: #fff;
-  font-family: Anonymous Pro;
+  font-family: "AnonymousPro-Regular";
   font-size: 40px;
   font-style: normal;
   font-weight: 400;
@@ -747,7 +746,7 @@ h2 {
 .keyword_lower {
   float: left;
   color: #fff;
-  font-family: Anonymous Pro;
+  font-family: "AnonymousPro-Regular";
   font-size: 40px;
   font-style: normal;
   font-weight: 400;
@@ -761,7 +760,7 @@ h2 {
 
 .keyword_special1 {
   color: #fff;
-  font-family: Anonymous Pro;
+  font-family: "AnonymousPro-Regular";
   font-size: 32px;
   font-style: normal;
   font-weight: 400;
@@ -818,7 +817,7 @@ h2 {
 .cat {
   color: #fff;
   text-align: center;
-  font-family: Anonymous Pro;
+  font-family: "AnonymousPro-Regular";
   font-size: 60px;
   font-style: normal;
   font-weight: 400;
@@ -860,7 +859,7 @@ h2 {
 .sqrt {
   color: #fff;
   text-align: center;
-  font-family: Anonymous Pro;
+  font-family: "AnonymousPro-Regular";
   font-size: 100px;
   font-style: normal;
   font-weight: 400;
@@ -872,7 +871,7 @@ h2 {
 .apple {
   color: #fff;
   text-align: center;
-  font-family: Anonymous Pro;
+  font-family: "AnonymousPro-Regular";
   font-size: 180px;
   font-style: normal;
   font-weight: 400;
@@ -883,7 +882,7 @@ h2 {
 .rtmark {
   color: #fff;
   text-align: center;
-  font-family: Anonymous Pro;
+  font-family: "AnonymousPro-Regular";
   font-size: 100px;
   font-style: normal;
   font-weight: 400;
@@ -914,7 +913,7 @@ h2 {
 
 .p1 {
   color: #fff;
-  font-family: Anonymous Pro;
+  font-family: "AnonymousPro-Regular";
   font-size: 40px;
   font-style: normal;
   font-weight: 400;
@@ -975,7 +974,7 @@ h2 {
 
 .numbr {
   color: #fff;
-  font-family: Anonymous Pro;
+  font-family: "AnonymousPro-Regular";
   font-size: 400px;
   font-style: normal;
   font-weight: 400;
