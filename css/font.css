@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "AnonymousPro-Bold";
+  src: url("../fonts/AnonymousPro-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "AnonymousPro-BoldItalic";
+  src: url("../fonts/AnonymousPro-BoldItalic.ttf") format("truetype");
+}
+@font-face {
+  font-family: "AnonymousPro-Italic";
+  src: url("../fonts/AnonymousPro-Italic.ttf") format("truetype");
+}
+@font-face {
+  font-family: "AnonymousPro-Regular";
+  src: url("../fonts/AnonymousPro-Regular.ttf") format("truetype");
+}
