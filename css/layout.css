@@ -220,8 +220,8 @@ body {
   height: 180px;
   z-index: 4;
   position: absolute;
-  top: 220px;
-  left: 992px;
+  top: 210px;
+  left: 994px;
 }
 
 /* hello */
@@ -1063,10 +1063,115 @@ h2 {
   width: 356px;
   margin-left: 20px;
   margin-top: 20px;
+  z-index: 205;
 }
 
 .file_computer {
-  background-image: url(../images/file.webp);
-  height: 70px;
-  width: 90px;
+  height: 90px;
+  width: 70px;
+  margin-left: 115px;
+  padding-top: 85px;
+  z-index: 199;
+}
+
+.file_computer_2 {
+  height: 90px;
+  width: 70px;
+  margin-left: 155px;
+  margin-top: -50px;
+  z-index: 200;
+}
+
+.computer_background_3 {
+  background-image: url(../images/computer_background_3.webp);
+  width: 484px;
+  height: 177px;
+  margin-left: 80px;
+  margin-top: 391px;
+}
+
+.square {
+  height: 26.4px;
+  width: 26.4px;
+  margin-left: 64px;
+  padding-top: 75px;
+}
+
+.stick {
+  height: 1px;
+  width: 88px;
+  margin-left: 328px;
+  margin-top: -20px;
+}
+
+.computer_background_4 {
+  background-image: url(../images/computer_background_4.webp);
+  width: 544px;
+  height: 280px;
+  position: absolute;
+  margin-left: 445px;
+  margin-top: -490px;
+  z-index: 206;
+}
+
+.about_web {
+  color: #fff;
+  font-family: Anonymous Pro;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.computer_background_5 {
+  background-image: url(../images/computer_background_5.webp);
+  position: absolute;
+  width: 364px;
+  height: 266px;
+  margin-left: 835px;
+  margin-top: -265px;
+  z-index: 207;
+}
+
+.computer_background_6 {
+  background-image: url(../images/computer_background_6.webp);
+  width: 324px;
+  height: 166px;
+  margin-left: 20px;
+  margin-top: 20px;
+  z-index: 207;
+}
+
+.cow {
+  color: #fff;
+  text-align: center;
+  font-family: Anonymous Pro;
+  font-size: 68px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 15px;
+}
+
+/* footer */
+
+.daria1 {
+  float: left;
+  margin-top: 6176px;
+  margin-left: 80px;
+  color: #fff;
+  font-family: Anonymous Pro;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.hse {
+  width: 285px;
+  height: 120px;
+  margin-left: 925px;
+  margin-top: 6138px;
 }
