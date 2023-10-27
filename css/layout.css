@@ -28,7 +28,7 @@ body {
 }
 
 .section2 {
-  width: 100vw;
+  width: 1280px;
   position: absolute;
   left: 0;
   right: 0;
@@ -36,7 +36,7 @@ body {
 }
 
 .window_anonymous_pro {
-  background-image: url(../images/window_background.png);
+  background-image: url(../images/window_background.webp);
   position: absolute;
   top: 180px;
   left: 112px;
@@ -47,7 +47,7 @@ body {
 }
 
 .window_background_1_2 {
-  background-image: url(../images/window_backround_1_2.png);
+  background-image: url(../images/window_backround_1_2.webp);
   width: 760px;
   height: 240px;
   margin: 0 auto; /* Горизонтальное выравнивание по центру */
@@ -96,7 +96,7 @@ body {
 /* Окно с кроликом */
 
 .window_rabbit {
-  background-image: url(../images/window_background_2_1.png);
+  background-image: url(../images/window_background_2_1.webp);
   position: absolute;
   left: 80px;
   top: 466px;
@@ -107,7 +107,7 @@ body {
 }
 
 .window_background_2_2 {
-  background-image: url(../images/window_background_2_2.png);
+  background-image: url(../images/window_background_2_2.webp);
   width: 280px;
   height: 198px;
   margin: 0 auto; /* Горизонтальное выравнивание по центру */
@@ -144,7 +144,7 @@ body {
 }
 
 .folder_back {
-  background-image: url(../images/folder_back.png);
+  background-image: url(../images/folder_back.webp);
   width: 196.338px;
   height: 145px;
   z-index: 1;
@@ -155,7 +155,7 @@ body {
 }
 
 .folder_face {
-  background-image: url(../images/folder_face.png);
+  background-image: url(../images/folder_face.webp);
   width: 215px;
   height: 100px;
   position: absolute;
@@ -167,7 +167,7 @@ body {
 /* курсор */
 
 .coursor {
-  background-image: url(../images/cursor.png);
+  background-image: url(../images/cursor.webp);
   width: 150px;
   height: 150px;
   z-index: 8;
@@ -179,7 +179,7 @@ body {
 /* загрузка */
 
 .window_3_1 {
-  background-image: url(../images/window_background_3_1.png);
+  background-image: url(../images/window_background_3_1.webp);
   position: absolute;
   width: 612px;
   height: 244px;
@@ -189,7 +189,7 @@ body {
 }
 
 .window_background_3_2 {
-  background-image: url(../images/window_background_3_2.png);
+  background-image: url(../images/window_background_3_2.webp);
   width: 572px;
   height: 144px;
   margin-left: 20px; /* Горизонтальное выравнивание по центру */
@@ -206,7 +206,7 @@ body {
 /* файлы */
 
 .file_back {
-  background-image: url(../images/file_back.png);
+  background-image: url(../images/file_back.webp);
   width: 140px;
   height: 180px;
   position: absolute;
@@ -215,7 +215,7 @@ body {
 }
 
 .file_front {
-  background-image: url(../images/file_front.png);
+  background-image: url(../images/file_front.webp);
   width: 140px;
   height: 180px;
   z-index: 4;
@@ -227,7 +227,7 @@ body {
 /* hello */
 
 .window_background_4_1 {
-  background-image: url(../images/window_background_4_1.png);
+  background-image: url(../images/window_background_4_1.webp);
   position: absolute;
   left: 820px;
   top: 428px;
@@ -238,7 +238,7 @@ body {
 }
 
 .window_background_4_2 {
-  background-image: url(../images/window_background_4_2.png);
+  background-image: url(../images/window_background_4_2.webp);
   width: 340px;
   height: 168px;
   margin-left: 20px; /* Горизонтальное выравнивание по центру */
@@ -269,7 +269,7 @@ body {
 
 .window_author {
   position: absolute;
-  background-image: url(../images/background_author.png);
+  background-image: url(../images/background_author.webp);
   width: 1120px;
   height: 484px;
   top: 1024px;
@@ -277,7 +277,7 @@ body {
 }
 
 .header_author {
-  background-image: url(../images/header_author.png);
+  background-image: url(../images/header_author.webp);
   width: 1120px;
   height: 95px;
   padding-top: 25px; /* Отступ от верхнего края блока */
@@ -287,7 +287,7 @@ body {
   float: left; /* Позволяет поставить два div в одну строчку */
   color: #fff;
   text-align: center;
-  font-family: "AnonymousPro-Bold" o;
+  font-family: "AnonymousPro-Bold";
   font-size: 80px;
   font-style: normal;
   font-weight: 700;
@@ -311,7 +311,7 @@ body {
 /* маленькое окошко автора */
 
 .window_backround_5_1 {
-  background-image: url(../images/window_background_5_1.png);
+  background-image: url(../images/window_background_5_1.webp);
   position: absolute;
   top: 1184px;
   left: 742px;
@@ -321,7 +321,7 @@ body {
 }
 
 .window_background_5_2 {
-  background-image: url(../images/window_background_5_2.png);
+  background-image: url(../images/window_background_5_2.webp);
   width: 378px;
   height: 260px;
   margin: 0 auto; /* Горизонтальное выравнивание по центру */
@@ -338,7 +338,7 @@ body {
 /* папо4ка */
 
 .folder_back_2 {
-  background-image: url(../images/folder_back.png);
+  background-image: url(../images/folder_back.webp);
   width: 196.338px;
   height: 145px;
   z-index: 1;
@@ -349,7 +349,7 @@ body {
 }
 
 .folder_face_2 {
-  background-image: url(../images/folder_face.png);
+  background-image: url(../images/folder_face2.webp);
   width: 215px;
   height: 100px;
   position: absolute;
@@ -358,15 +358,24 @@ body {
   z-index: 3;
 }
 
-h1 {
+.specialties {
   color: #fff;
   font-family: "AnonymousPro-Bold";
   font-size: 80px;
-  font-style: normal;
   font-weight: 700;
+  margin-left: 150px;
+  margin-top: 1588px;
+}
+
+.specialties2 {
+  color: #fff;
+  font-family: "AnonymousPro-Regular";
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
   line-height: normal;
+  margin-top: 40px;
   margin-left: 80px;
-  position: absolute;
 }
 
 h2 {
@@ -379,43 +388,74 @@ h2 {
   margin-left: 80px;
   margin-top: 40px;
 }
-/* собенности */
+/* ocобенности */
 .background_rectangle {
-  background-image: url(../images/Rectangle.png);
+  background-image: url(../images/Rectangle.webp);
   height: 340px;
-  width: 100vw;
+  width: 1280px;
   position: absolute;
   top: 1708px;
+  margin-left: 80px;
 }
 
 .Anonymous_Pro {
   color: #fff;
   font-family: "AnonymousPro-Bold";
+  position: relative;
   font-size: 140px;
   font-style: normal;
   font-weight: 700;
   line-height: normal;
-  margin-top: 20px;
+  margin-top: -10px;
   margin-left: 143px;
 }
 
+.line_vector {
+  background-image: url(../images/Line_vector.svg);
+  position: relative;
+  float: left;
+  width: 58px;
+  height: 15px;
+  top: 30px;
+  left: 298px;
+}
+
+.line_vector2 {
+  background-image: url(../images/Line_vector.svg);
+  position: relative;
+  width: 58px;
+  height: 15px;
+  top: 30px;
+  left: 604px;
+}
+
+.line_vector3 {
+  background-image: url(../images/Line_vector.svg);
+  position: relative;
+  float: left;
+  width: 58px;
+  height: 15px;
+  top: 15px;
+  left: 988px;
+}
+
 .line_1 {
-  background-image: url(../images/Line_1.png);
-  width: 100vw;
+  background-image: url(../images/Line_1.svg);
+  width: 1280px;
   height: 1px;
   margin-top: 40px;
 }
 
 .line_2 {
-  background-image: url(../images/Line_2.png);
-  width: 100vw;
+  background-image: url(../images/Line_2.svg);
+  width: 1280px;
   height: 1px;
   margin-top: -26px;
 }
 
 .line_3 {
-  background-image: url(../images/Line_3.png);
-  width: 100vw;
+  background-image: url(../images/Line_3.svg);
+  width: 1280px;
   height: 1px;
   margin-top: 26px;
 }
@@ -438,7 +478,7 @@ h2 {
 }
 
 .fileflex_1 {
-  background-image: url(../images/fileflex.png);
+  background-image: url(../images/fileflex.webp);
   height: 280px;
   width: 238px;
 }
@@ -541,7 +581,7 @@ h2 {
 
 .languages {
   position: absolute;
-  background-image: url(../images/background_languages.png);
+  background-image: url(../images/background_languages.webp);
   width: 1120px;
   height: 432px;
   top: 2568px;
@@ -549,7 +589,7 @@ h2 {
 }
 
 .header_languages {
-  background-image: url(../images/header_languages.png);
+  background-image: url(../images/header_languages.webp);
   width: 1120px;
   height: 95px;
   padding-top: 25px; /* Отступ от верхнего края блока */
@@ -564,7 +604,7 @@ h2 {
 }
 
 .container {
-  background-image: url(../images/block.png);
+  background-image: url(../images/block.webp);
   height: 62px;
   width: 340px;
 }
@@ -625,55 +665,55 @@ h2 {
 }
 
 .container2 {
-  background-image: url(../images/Keyword.png);
+  background-image: url(../images/Keyword.webp);
   height: 70px;
   width: 70px;
 }
 
 .container_spec1 {
-  background-image: url(../images/Keyword_spec1.png);
+  background-image: url(../images/Keyword_spec1.webp);
   height: 70px;
   width: 106px;
 }
 
 .container_spec2 {
-  background-image: url(../images/Keyword_special2.png);
+  background-image: url(../images/Keyword_special2.webp);
   height: 70px;
   width: 102px;
 }
 
 .container_enter {
-  background-image: url(../images/Keyword_enter.png);
+  background-image: url(../images/Keyword_enter.webp);
   height: 148px;
   width: 74px;
 }
 
 .container_spec3 {
-  background-image: url(../images/Keyword_special3.png);
+  background-image: url(../images/Keyword_special3.webp);
   height: 70px;
   width: 128px;
 }
 
 .container_spec4 {
-  background-image: url(../images/Keyword_special4.png);
+  background-image: url(../images/Keyword_special4.webp);
   height: 70px;
   width: 99px;
 }
 
 .container_spec5 {
-  background-image: url(../images/Keyword_special5.png);
+  background-image: url(../images/Keyword_special5.webp);
   height: 70px;
   width: 155px;
 }
 
 .container_spec6 {
-  background-image: url(../images/Keyword_special6.png);
+  background-image: url(../images/Keyword_special6.webp);
   height: 70px;
   width: 95px;
 }
 
 .container_space {
-  background-image: url(../images/Keyword_space.png);
+  background-image: url(../images/Keyword_space.webp);
   height: 70px;
   width: 494px;
 }
@@ -772,7 +812,7 @@ h2 {
 
 .window_glyphs {
   position: absolute;
-  background-image: url(../images/window_background_6_1.png);
+  background-image: url(../images/window_background_6_1.webp);
   width: 601px;
   height: 394px;
   top: 3700px;
@@ -781,7 +821,7 @@ h2 {
 }
 
 .window_background_6_2 {
-  background-image: url(../images/window_background_6_2.png);
+  background-image: url(../images/window_background_6_2.webp);
   width: 566px;
   height: 294px;
   margin: 0 auto; /* Горизонтальное выравнивание по центру */
@@ -797,7 +837,7 @@ h2 {
 
 .window_cat {
   position: absolute;
-  background-image: url(../images/window_background_7_1.png);
+  background-image: url(../images/window_background_7_1.webp);
   width: 380px;
   height: 268px;
   top: 3720px;
@@ -806,7 +846,7 @@ h2 {
 }
 
 .window_background_7_2 {
-  background-image: url(../images/window_background_7_2.png);
+  background-image: url(../images/window_background_7_2.webp);
   width: 340px;
   height: 168px;
   margin: 0 auto; /* Горизонтальное выравнивание по центру */
@@ -827,7 +867,7 @@ h2 {
 /* файлики */
 
 .filesqrt {
-  background-image: url(../images/filesqrt.png);
+  background-image: url(../images/filesqrt.webp);
   width: 100px;
   height: 120px;
   position: absolute;
@@ -837,7 +877,7 @@ h2 {
 }
 
 .fileapple {
-  background-image: url(../images/fileapple.png);
+  background-image: url(../images/fileapple.webp);
   width: 140px;
   height: 180px;
   position: absolute;
@@ -847,7 +887,7 @@ h2 {
 }
 
 .filetrmark {
-  background-image: url(../images/filetrmark.png);
+  background-image: url(../images/filetrmark.webp);
   width: 100px;
   height: 120px;
   position: absolute;
@@ -891,8 +931,18 @@ h2 {
 }
 
 /* специально для кода */
+
+.for_code {
+  color: #fff;
+  font-family: "AnonymousPro-Bold";
+  font-size: 80px;
+  font-weight: 700;
+  margin-left: 80px;
+  margin-top: 4196px;
+}
+
 .window_background_8_1 {
-  background-image: url(../images/window_background_8_1.png);
+  background-image: url(../images/window_background_8_1.webp);
   width: 626px;
   height: 260px;
   position: absolute;
@@ -902,7 +952,7 @@ h2 {
 }
 
 .window_background_8_2 {
-  background-image: url(../images/window_background_8_2.png);
+  background-image: url(../images/window_background_8_2.webp);
   width: 860px;
   height: 280px;
   position: absolute;
@@ -923,7 +973,7 @@ h2 {
 }
 
 .window_numbers {
-  background-image: url(../images/window_background_8_3.png);
+  background-image: url(../images/window_background_8_3.webp);
   width: 320px;
   height: 298px;
   position: absolute;
@@ -933,7 +983,7 @@ h2 {
 }
 
 .window_numbers2 {
-  background-image: url(../images/window_background_8_3_2.png);
+  background-image: url(../images/window_background_8_3_2.webp);
   width: 320px;
   height: 298px;
   position: absolute;
@@ -942,7 +992,7 @@ h2 {
   z-index: 119;
 }
 .window_numbers3 {
-  background-image: url(../images/window_background_8_3_3.png);
+  background-image: url(../images/window_background_8_3_3.webp);
   width: 320px;
   height: 298px;
   position: absolute;
@@ -952,7 +1002,7 @@ h2 {
 }
 
 .window_numbers4 {
-  background-image: url(../images/window_background_8_3_4.png);
+  background-image: url(../images/window_background_8_3_4.webp);
   width: 320px;
   height: 298px;
   position: absolute;
@@ -962,7 +1012,7 @@ h2 {
 }
 
 .window_background_8_4 {
-  background-image: url(../images/window_background_8_4.png);
+  background-image: url(../images/window_background_8_4.webp);
   width: 280px;
   height: 198px;
   margin: 0 auto; /* Горизонтальное выравнивание по центру */
@@ -981,9 +1031,42 @@ h2 {
   line-height: normal;
 }
 
-.frame1 {
+.frame2 {
   width: 219px;
   height: 400px;
   margin-left: 20px;
   padding-top: 0px;
+}
+
+.for_web {
+  color: #fff;
+  font-family: "AnonymousPro-Bold";
+  font-size: 80px;
+  font-weight: 700;
+  margin-left: 80px;
+  margin-top: 1588px;
+  margin-top: 5272px;
+}
+
+.computer_background {
+  background-image: url(../images/window_computer_background.webp);
+  margin-left: 120px;
+  position: absolute;
+  margin-top: 40px;
+  height: 352px;
+  width: 396px;
+}
+
+.computer_background_2 {
+  background-image: url(../images/computer_background_2.webp);
+  height: 292px;
+  width: 356px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.file_computer {
+  background-image: url(../images/file.webp);
+  height: 70px;
+  width: 90px;
 }
